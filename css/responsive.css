@@ -1,0 +1,997 @@
+@media (max-width: 2350.98px) {
+    h1 {
+        font-size: 90px;
+        line-height: 90px;
+    }
+    h2 {
+        font-size: 140px;
+        line-height: 140px;
+    }
+    h3 {
+        font-size: 50px;
+        line-height: 50px;
+    }
+    h4 {
+        font-size: 55px;
+        line-height: 45px;
+    }
+    h5 {
+        font-size: 32px;
+        line-height: 32px;
+    }
+    a {
+        font-size: 25px;
+        line-height: 35px;
+    }
+    .custom-btn a {
+        width: 280px;
+        height: 68px;
+    }
+    .lalaland-logo a svg {
+        width: 3000px;
+        height: auto;
+        padding-left: 38px;
+    }
+    .main-banner {
+        padding-top: 400px;
+    }
+    .main-banner h1 {
+        top: 280px;
+        left: -405px;
+    }
+    .hero-banner-slider {
+        width: 600px;
+        height: auto;
+    }
+    .artwork-spacing {
+        padding-bottom: 3260px;
+    }
+    .same-image-area {
+        width: 600px;
+        height: auto;
+    }
+    .guest-image-area {
+        width: 600px;
+        height: 1163px;
+    }
+    .orange-position {
+        top: 630px;
+    }
+    .same-text-btn p {
+        font-size: 25px;
+        line-height: 35px;
+    }
+    .guest-image-area img {
+        max-width: 900px;
+        width: 900px;
+        height: 105%;
+        margin-top: -100px;
+    }
+    .orange-block {
+        width: 500px;
+        height: 1480px;
+    }
+    .involved-position {
+        left: 250px;
+    }
+    .involved-position h2 {
+        font-size: 110px;
+        line-height: 90px;
+    }
+    .enquire-up-area {
+        max-width: 500px;
+        margin-top: 160px;
+    }
+    .dj-position {
+        left: 900px;
+        top: 1385px;
+    }
+    .dj-image-area::before {
+        width: 180%;
+        height: 180%;
+    }
+    .dj-position h2 {
+        top: 330px;
+        left: 98px;
+    }
+    .join-area {
+        left: 50px;
+        bottom: -450px;
+    }
+    .hire-position {
+        top: 2275px;
+    }
+    .hire-position h2 {
+        top: 200px;
+        left: -170px;
+        line-height: 120px;
+    }
+    .get-area {
+        max-width: 300px;
+        margin-right: 10px;
+        margin-top: 380px;
+    }
+    .about-horizontal-title h2 {
+        font-size: 160px;
+        line-height: 200px;
+    }
+    .party-content {
+        top: 200px;
+    }
+    .want-area {
+        max-width: 400px;
+        margin-top: 100px;
+    }
+    .green-block {
+        width: 500px;
+        height: 1200px;
+    }
+    .green-position {
+        top: 700px;
+    }
+    .social-position {
+        top: 1200px;
+        z-index: 99;
+    }
+    .find-us-texts {
+        margin-top: 100px;
+        padding-top: 0;
+        padding-bottom: 1730px;
+    }
+    .about-area h5 {
+        font-size: 22px;
+        line-height: 36px;
+        margin-top: 25px;
+    }
+    .service-details h3 {
+        font-size: 25px;
+        line-height: 40px;
+        color: #fc440f;
+        text-transform: uppercase;
+    }
+    .about-area p {
+        font-size: 18px;
+        line-height: 35px;
+    }
+    .service-details {
+        margin-top: 60px;
+    }
+    .contact-btn a {
+        margin-top: 50px;
+    }
+    .social-titles a svg {
+        width: 480px;
+        height: auto;
+    }
+    .social-list-area h3 {
+        font-size: 50px;
+        line-height: 50px;
+    }
+    .social-list-area li a svg {
+        width: auto;
+        height: 40px;
+    }
+    .social-list-area {
+        padding-left: 60px;
+    }
+    .social-list-area h3 span:last-child {
+        font-size: 25px;
+        line-height: 40px;
+    }
+    .footer-enjoy-trip h2 {
+        font-size: 160px;
+        line-height: 80px;
+    }
+    .footer-title-wrap {
+        margin-top: 24px;
+        margin-bottom: 40px;
+    }
+    #footer {
+        padding-top: 5px;
+        padding-bottom: 55px;
+    }
+    header svg,
+    .menu-list-area svg {
+        width: 50px;
+        height: 50px;
+    }
+    .street-food-text {
+        margin-top: 495px;
+        margin-left: 50px;
+        padding-bottom: 0;
+    }
+    .street-food-text h4 {
+        height: 860px;
+    }
+    .involved-1 h2 {
+        -webkit-text-stroke: 3px #fff;
+    }
+}
+
+@media (max-width: 1850.98px) {
+    .main-preloader {
+        width: 130px;
+        height: 130px;
+    }
+    h1 {
+        font-size: 70px;
+        line-height: 70px;
+    }
+    h2 {
+        font-size: 110px;
+    }
+    h3 {
+        font-size: 40px;
+        line-height: 40px;
+    }
+    h5 {
+        font-size: 24px;
+        line-height: 24px;
+    }
+    a {
+        font-size: 20px;
+        line-height: 30px;
+    }
+    .custom-btn a {
+        width: 220px;
+        height: 48px;
+    }
+    .lalaland-logo {
+        top: 30px;
+        left: 0;
+    }
+    .lalaland-logo a svg {
+        width: 2000px;
+        padding-left: 15px;
+    }
+    .street-food-text {
+        margin-left: 30px;
+    }
+    .main-banner {
+        padding-top: 300px;
+    }
+    .hero-banner-slider {
+        width: 450px;
+        height: auto;
+    }
+    .street-food {
+        top: 250px;
+        right: -380px;
+        width: 350px;
+    }
+    .involved-position h2 {
+        font-size: 75px;
+        line-height: 65px;
+    }
+    .about-area p {
+        line-height: 25px;
+    }
+    .social-list-area h3 {
+        font-size: 35px;
+        line-height: 40px;
+    }
+    .social-list-area h3 span:last-child {
+        font-size: 20px;
+        line-height: 30px;
+    }
+    .social-list-item {
+        margin-top: 20px;
+    }
+    .social-list-area li a svg {
+        height: 30px;
+    }
+    .same-image-area {
+        width: 400px;
+    }
+    .guest-position {
+        top: -130px;
+    }
+    .guest-image-area {
+        height: 775px;
+    }
+    .guest-image-area img {
+        max-width: 600px;
+        width: 600px;
+        height: 105%;
+        margin-top: -38px;
+    }
+    .street-food-text {
+        margin-top: 320px;
+    }
+    .street-food-text h4 {
+        font-size: 50px;
+        line-height: 55px;
+        height: 800px;
+    }
+    .orange-position {
+        top: 328px;
+    }
+    .orange-block {
+        width: 350px;
+        height: 1000px;
+    }
+    .involved-position {
+        left: 310px;
+        top: 400px;
+    }
+    .dj-position {
+        left: 760px;
+        top: 650px;
+    }
+    .dj-position h2 {
+        top: 140px;
+        left: 100px;
+        font-size: 90px;
+    }
+    .hire-position {
+        top: 1230px;
+        right: 800px;
+    }
+    .artwork-spacing {
+        padding-bottom: 1860px;
+    }
+    .find-us-texts {
+        max-width: 400px;
+        margin-left: 450px;
+        margin-top: 40px;
+        padding-bottom: 1080px;
+    }
+    .guest-content {
+        top: 100px;
+    }
+    .sign-up-area {
+        max-width: 220px;
+        margin-top: 70px;
+    }
+    .enquire-up-area {
+        max-width: 400px;
+        margin: 0;
+        margin-left: 40px;
+        margin-top: 90px;
+    }
+    .join-area {
+        bottom: -350px;
+    }
+    .hire-content {
+        top: 0;
+    }
+    .hire-position h2 {
+        font-size: 70px;
+        line-height: 65px !important;
+        top: 100px;
+        left: 48px;
+        line-height: 90px;
+        transform: rotate(0deg);
+        -webkit-transform: rotate(0deg);
+        -moz-transform: rotate(0deg);
+        -ms-transform: rotate(0deg);
+        -o-transform: rotate(0deg);
+    }
+    .get-area {
+        margin-top: 320px;
+    }
+    .party-content {
+        top: 80px;
+    }
+    .about-horizontal-title h2 {
+        font-size: 130px;
+        line-height: 170px;
+    }
+    .want-area {
+        max-width: 300px;
+        margin-top: 50px;
+    }
+    .party-position {
+        top: 150px;
+        right: 280px;
+    }
+    .green-position {
+        top: 600px;
+    }
+    .green-block {
+        height: 800px;
+    }
+    .social-position {
+        top: 900px;
+        left: 550px;
+    }
+    .social-titles {
+        padding-top: 0;
+        padding-left: 40px;
+    }
+    .social-titles a svg {
+        width: 320px;
+    }
+    .social-list-area {
+        padding-left: 40px;
+    }
+    .footer-enjoy-trip h2 {
+        font-size: 130px;
+        line-height: 70px;
+    }
+    .main-banner h1 {
+        top: 220px;
+        left: -315px;
+    }
+    #footer {
+        margin-top: -50px;
+    }
+    .new-page {
+        margin-top: 0 !important;
+    }
+    header svg,
+    .menu-list-area svg {
+        width: 45px;
+        height: 45px;
+    }
+    .menu-list-area ul li a {
+        font-size: 60px;
+        line-height: 60px;
+    }
+    .involved-1 h2 {
+        -webkit-text-stroke: 2px #fff;
+    }
+}
+
+@media (max-width: 1500.98px) {
+    .involved-position {
+        left: 250px;
+    }
+    .dj-position {
+        left: 730px;
+    }
+    .hire-position {
+        right: 600px;
+    }
+    .find-us-texts {
+        margin-left: 350px;
+    }
+    .party-position {
+        right: 180px;
+    }
+    .social-position {
+        left: 400px;
+    }
+}
+
+@media (max-width: 1199.98px) {
+    .main-preloader {
+        width: 100px;
+        height: 100px;
+    }
+    h1 {
+        font-size: 50px;
+        line-height: 50px;
+    }
+    h2 {
+        font-size: 57px;
+        line-height: 80px;
+    }
+    h3 {
+        font-size: 36px;
+        line-height: 36px;
+    }
+    h5 {
+        font-size: 24px;
+        line-height: 24px;
+    }
+    p {
+        font-size: 14px;
+        line-height: 30px;
+    }
+    a {
+        font-size: 24px;
+        line-height: 24px;
+    }
+    .custom-btn a {
+        width: 240px;
+        height: 51px;
+    }
+    .main-banner {
+        padding-top: 165px;
+        padding-bottom: 220px;
+    }
+    .lalaland-logo a svg {
+        width: 1500px;
+        padding-left: 5px;
+    }
+    .lalaland-logo {
+        top: 10px;
+    }
+    .street-food-text {
+        margin-left: -10px;
+        margin-top: 430px;
+    }
+    .street-food-text h4 {
+        font-size: 36px;
+        line-height: 45px;
+        height: 570px;
+    }
+    .hero-banner-slider {
+        width: 302px;
+    }
+    .main-banner h1 {
+        top: -15px;
+        left: -30px;
+        transform: rotate(0deg);
+        -webkit-transform: rotate(0deg);
+        -moz-transform: rotate(0deg);
+        -ms-transform: rotate(0deg);
+        -o-transform: rotate(0deg);
+        width: 500px;
+    }
+    .street-food {
+        top: auto;
+        right: auto;
+        left: 50%;
+        width: 240px;
+        bottom: -178px;
+        transform: translateX(-50%);
+        -webkit-transform: translateX(-50%);
+        -moz-transform: translateX(-50%);
+        -ms-transform: translateX(-50%);
+        -o-transform: translateX(-50%);
+    }
+    .main-banner h5 {
+        margin-bottom: 30px;
+    }
+    .main-banner h5:first-child {
+        color: #fff;
+    }
+    .main-banner h5:nth-child(2) {
+        margin-top: 60px;
+    }
+    .same-image-area {
+        width: 302px;
+    }
+    .guest-position {
+        left: 40%;
+        top: 0;
+        z-index: 10;
+    }
+    .guest-content {
+        top: 50px;
+    }
+    .guest-image-area {
+        height: 585px;
+    }
+    .sign-up-area {
+        margin-top: 200px;
+    }
+    .orange-position {
+        z-index: 1;
+        top: 200px;
+    }
+    .orange-block {
+        width: 188px;
+        height: 541px;
+    }
+    .involved-position {
+        left: 140px;
+    }
+    .involved-position h2 {
+        font-size: 57px;
+        line-height: 45px;
+    }
+    .involved-1 h2 {
+        -webkit-text-stroke: 2px #fff;
+    }
+    .enquire-up-area {
+        margin-top: 80px;
+        margin-left: 30px;
+    }
+    .dj-position {
+        left: 480px;
+    }
+    .dj-position h2 {
+        top: 27px;
+        left: 90px;
+        font-size: 57px;
+        line-height: 62px;
+    }
+    .dj-image-area::before {
+        height: 200%;
+    }
+    .join-area {
+        left: 30px;
+        bottom: -303px;
+    }
+    .artwork-spacing {
+        padding-bottom: 1870px;
+    }
+    .find-us-texts {
+        margin-top: 80px;
+    }
+    .hire-position {
+        top: 1200px;
+        right: auto;
+        left: 40%;
+        transform: translateX(-50%);
+        -webkit-transform: translateX(-50%);
+        -moz-transform: translateX(-50%);
+        -ms-transform: translateX(-50%);
+        -o-transform: translateX(-50%);
+    }
+    .hire-position h2 {
+        font-size: 57px;
+        line-height: 52px !important;
+        left: auto;
+        right: 15px;
+        top: 120px;
+    }
+    .get-area {
+        max-width: 235px;
+        margin-right: auto;
+        margin-top: 300px;
+    }
+    .party-position {
+        right: 100px;
+    }
+    .want-area {
+        max-width: 240px;
+    }
+    .about-horizontal-title h2 {
+        font-size: 62px;
+        line-height: 78px;
+        letter-spacing: 2px;
+        -webkit-text-stroke: 1.5px #fc440f;
+    }
+    .green-block {
+        width: 220px;
+        height: 580px;
+    }
+    .find-us-texts {
+        margin-left: 150px;
+        padding-bottom: 820px;
+    }
+    .social-list-area h3 {
+        font-size: 30px;
+        line-height: 30px;
+    }
+    .social-titles {
+        padding-left: 15px;
+    }
+    .social-titles a svg {
+        width: 274px;
+        margin-top: -40px;
+    }
+    .social-list-area h3 span:last-child {
+        font-size: 14px;
+        line-height: 22px;
+    }
+    .social-content {
+        padding-bottom: 40px;
+    }
+    .social-position {
+        left: 50%;
+        top: 800px;
+        transform: translateX(-50%);
+        -webkit-transform: translateX(-50%);
+        -moz-transform: translateX(-50%);
+        -ms-transform: translateX(-50%);
+        -o-transform: translateX(-50%);
+    }
+    .footer-enjoy-trip h2 {
+        font-size: 75px;
+        line-height: 95px;
+        padding-left: 0px;
+    }
+    .footer-title-wrap {
+        margin-bottom: 0;
+    }
+    #footer {
+        padding-bottom: 30px;
+        margin-top: -25px;
+        position: relative;
+        z-index: 999;
+    }
+    #footer p {
+        font-size: 12px;
+        line-height: 15px;
+    }
+    .footer-list {
+        margin-top: -33px;
+    }
+    .footer-list li {
+        margin-right: 10px;
+    }
+    .footer-list li a,
+    .footer-list li p {
+        font-size: 12px;
+        line-height: 15px;
+        margin-top: -10px;
+    }
+    .guest-form-container {
+        width: 302px;
+        height: 585px;
+    }
+    .guest-modal-contant {
+        padding: 15px 8px;
+    }
+    .modal-logo {
+        margin-top: -20px;
+    }
+    .modal-logo a {
+        margin-bottom: 15px;
+    }
+    .modal-logo a svg {
+        width: 251px;
+        height: 64px;
+    }
+    .guest-modal-area h4 {
+        font-size: 35px;
+        line-height: 50px;
+        margin-top: -15px;
+    }
+    .guest-modal-area h3 {
+        font-size: 50px;
+        line-height: 50px;
+        margin-top: 10px;
+        margin-bottom: 20px;
+    }
+    .guest-modal-area p {
+        font-size: 14px;
+        line-height: 20px;
+        max-width: 238px;
+    }
+    .party-open .clear {
+        margin-top: -25px;
+    }
+    .modal-form {
+        margin-top: 40px;
+        padding: 0 8px;
+    }
+    .modal-form input {
+        max-width: 178px;
+        width: 100%;
+        height: 40px;
+        margin-bottom: 10px;
+        font-size: 16px;
+        padding: 5px 15px;
+    }
+    .modal-form input.submit-btn {
+        max-width: 241px;
+        height: 51px;
+        font-size: 24px;
+        line-height: 24px;
+        margin-top: 0;
+    }
+    .party-open p {
+        margin-bottom: 10px;
+        max-width: 240px;
+    }
+    .party-open form p {
+        font-size: 11px;
+        line-height: 14px;
+    }
+    .footer-title-scroll {
+        width: 150%;
+    }
+    .new-page-body .main-banner {
+        padding-top: 0px;
+    }
+    .new-page-body p {
+        font-size: 16px;
+        line-height: 30px;
+    }
+    .new-page-container {
+        padding-bottom: 200px;
+    }
+    .entry-content {
+        margin-top: 10px;
+    }
+    .privacy-page .new-page-container a {
+        font-size: 16px;
+        line-height: 30px;
+    }
+    .new-page-container h1 {
+        line-height: 70px;
+    }
+    header svg,
+    .menu-list-area svg {
+        width: 40px;
+        height: 40px;
+    }
+    .menu-list-area ul li a {
+        font-size: 50px;
+        line-height: 50px;
+    }
+}
+
+@media (max-width: 991.98px) {
+    .involved-position {
+        left: auto;
+        right: 440px;
+        top: 400px;
+    }
+    .dj-position {
+        left: auto;
+        top: 550px;
+        right: 4%;
+    }
+    .artwork-spacing {
+        padding-bottom: 1630px;
+    }
+    .hire-position {
+        top: 980px;
+    }
+    .about-area p {
+        font-size: 14px;
+        line-height: 30px;
+    }
+    .about-area h5 {
+        font-size: 18px;
+        line-height: 30px;
+    }
+    .service-details h3 {
+        font-size: 24px;
+        line-height: 44px;
+    }
+    .contact-btn a {
+        margin-top: 70px;
+    }
+    .party-content h2 {
+        letter-spacing: 1px;
+    }
+    .want-area {
+        max-width: 240px;
+        margin-top: 80px;
+    }
+    .want-area p {
+        line-height: 24px;
+    }
+    .party-content {
+        top: 50px;
+    }
+    .find-us-texts {
+        padding-top: 0;
+        margin: 0 auto;
+        margin-top: 55px;
+        padding-bottom: 1280px;
+        max-width: 301px;
+    }
+    .party-position {
+        position: absolute;
+        top: 900px;
+        right: 10%;
+    }
+    .green-position {
+        top: 1180px;
+        right: 0;
+        left: auto;
+    }
+    .green-block {
+        width: 140px;
+        height: 427px;
+    }
+    .social-position {
+        top: 1300px;
+        left: 10%;
+        z-index: 100;
+        transform: translateX(0);
+        -webkit-transform: translateX(0);
+        -moz-transform: translateX(0);
+        -ms-transform: translateX(0);
+        -o-transform: translateX(0);
+    }
+    .street-food-text h4 {
+        display: none;
+    }
+}
+
+@media (max-width: 576.98px) {
+    .main-preloader {
+        width: 70px;
+        height: 70px;
+    }
+    .guest-position {
+        left: 10%;
+        top: -30px;
+        z-index: 10;
+    }
+    .sign-btn a,
+    .enquire-btn a {
+        width: 178px;
+        height: 51px;
+    }
+    .orange-position {
+        z-index: 1;
+        top: 280px;
+    }
+    .involved-position {
+        left: auto;
+        right: 0;
+        top: 500px;
+    }
+    .dj-position {
+        left: 0;
+        top: 1020px;
+    }
+    .artwork-spacing {
+        padding-bottom: 2210px;
+    }
+    .hire-position {
+        top: 1580px;
+        right: auto;
+        left: 50%;
+        transform: translateX(-50%);
+        -webkit-transform: translateX(-50%);
+        -moz-transform: translateX(-50%);
+        -ms-transform: translateX(-50%);
+        -o-transform: translateX(-50%);
+    }
+    .find-us-texts {
+        padding-top: 0;
+        margin: 0 auto;
+        margin-top: 25px;
+        padding-bottom: 1380px;
+        max-width: 301px;
+    }
+    .party-position {
+        position: absolute;
+        top: 830px;
+        right: 0;
+    }
+    .green-position {
+        top: 1150px;
+        right: auto;
+        left: 0;
+    }
+    .social-position {
+        top: 1450px;
+        left: 50%;
+        z-index: 100;
+        transform: translateX(-50%);
+        -webkit-transform: translateX(-50%);
+        -moz-transform: translateX(-50%);
+        -ms-transform: translateX(-50%);
+        -o-transform: translateX(-50%);
+    }
+    .social-content {
+        padding-bottom: 20px;
+    }
+    .social-titles {
+        padding-top: 10px;
+    }
+    .social-list-area {
+        padding-left: 20px;
+    }
+    .social-list-item li {
+        margin-right: 15px;
+    }
+    .about-horizontal-title h2 {
+        font-size: 62px;
+        line-height: 78px;
+        letter-spacing: 2px;
+        -webkit-text-stroke: 1.2px #fc440f;
+    }
+    .footer-enjoy-trip h2 {
+        font-size: 50px;
+        line-height: 60px;
+        margin-left: -13px;
+    }
+    .footer-title-wrap {
+        margin-bottom: 0;
+    }
+    .new-page-container {
+        padding-bottom: 150px;
+    }
+    .entry-content {
+        margin-top: 15px;
+    }
+    header svg,
+    .menu-list-area svg {
+        width: 32px;
+        height: 32px;
+    }
+    .menu-list-area ul li a {
+        font-size: 36px;
+        line-height: 36px;
+    }
+    .menu-list-area {
+        padding-left: 35px;
+    }
+    .menu-inner {
+        justify-content: flex-start;
+    }
+}

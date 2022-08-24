@@ -1,0 +1,19 @@
+@font-face {
+    font-family: "HunterRegular";
+    src: url("HunterRegular.ttf") format("truetype"), url("HunterRegular.woff") format("woff"), url("HunterRegular.woff2") format("woff2");
+}
+
+@font-face {
+    font-family: "NexaHeavy";
+    src: url("NexaHeavy.ttf") format("truetype"), url("NexaHeavy.woff") format("woff"), url("NexaHeavy.woff2") format("woff2");
+}
+
+@font-face {
+    font-family: "Nexa-XBold";
+    src: url("Nexa-XBold.ttf") format("truetype"), url("Nexa-XBold.woff") format("woff"), url("Nexa-XBold.woff2") format("woff2");
+}
+
+@font-face {
+    font-family: "NexaRegular";
+    src: url("NexaRegular.ttf") format("truetype"), url("NexaRegular.woff") format("woff"), url("NexaRegular.woff2") format("woff2");
+}
